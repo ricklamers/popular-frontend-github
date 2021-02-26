@@ -1,0 +1,31 @@
+{
+    "name": "frontend-stars",
+    "parameters": {},
+    "settings": {
+        "auto_eviction": false,
+        "data_passing_memory_size": "1GB"
+    },
+    "steps": {
+        "71114166-86da-461c-bfd5-167c5016316c": {
+            "environment": "2540a52e-5e4a-4ce4-a09a-149589c09cb6",
+            "file_path": "scrape.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    157,
+                    269
+                ]
+            },
+            "parameters": {},
+            "title": "Scrape trending front end repos",
+            "uuid": "71114166-86da-461c-bfd5-167c5016316c"
+        }
+    },
+    "uuid": "5239f5d7-e273-4757-b854-e9e345d27e6b",
+    "version": "1.0.0"
+}
